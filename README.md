@@ -1,3 +1,3 @@
-Platinum Programming Lauguage
+Platinum - Programming Lauguage
 ========
 Just idea.
