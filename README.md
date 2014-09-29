@@ -1,4 +1,4 @@
-Platinum - Programming Lauguage
+Platinum - Programming Language
 ========
 ぼくのかんがえたさいきょうのぷろぐらみんぐげんご
 
